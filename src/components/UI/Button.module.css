@@ -1,0 +1,13 @@
+.Button{
+    cursor: pointer;
+    background-color: lavenderblush;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 1em;
+}
+
+.Button:hover{
+    background-color: darkgray;
+    cursor: pointer;
+}

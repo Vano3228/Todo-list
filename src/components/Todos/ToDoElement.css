@@ -1,0 +1,37 @@
+.element{
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    background-color: cornflowerblue;
+    width: 25%;
+    margin: 10px auto;
+    border: 1px solid grey;
+    border-radius: 3px;
+    text-align: left;
+    padding: 3px;
+}
+
+.element.completed {
+    background-color: grey;
+}
+
+.todoIcon{
+    font-size: 1.8rem;
+    margin-right: 10px;
+}
+
+.todoText{
+    width: 100%;
+}
+
+.bin:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.check:hover{
+    color: green;
+    cursor: pointer;
+}
+
+

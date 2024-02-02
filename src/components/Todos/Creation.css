@@ -1,0 +1,15 @@
+.creation{
+    max-width: 20%;
+    border: 1px black solid;
+    margin: 10px auto;
+    background-color: paleturquoise;
+}
+
+.creation input{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 3px;
+    border: 1px solid blue;
+    width: 80%;
+}
+
